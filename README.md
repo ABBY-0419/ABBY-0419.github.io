@@ -10,7 +10,9 @@ Static GitHub Pages site for ByeShrimp developer information and privacy policie
 - `/privacy/ja.html` — Japanese privacy policy
 - `/privacy/zh-hans.html` — Simplified Chinese privacy policy
 
-The site has no build step, JavaScript, analytics, or external font dependency. Before public release, review the policy against the final app binary and applicable law. The current operator label and contact address were supplied for this draft.
+The site has no build step, JavaScript, analytics, or external font dependency. The operator is **MUISIK** and the contact address is **visionary.0419@gmail.com**. The policy pages were revised on October 16, 2026. They cover local motion processing, saved postures and shared display references, call status, StoreKit, device backups, GitHub Pages, and Gmail inquiries.
+
+The app links to the policy for its currently displayed language from the bottom of Settings. Policy edits here must be deployed before the updated text is available at the public URLs. Before release, check the policy against the final app binary, operating practices, and applicable law.
 
 ## Publish with GitHub Pages
 
